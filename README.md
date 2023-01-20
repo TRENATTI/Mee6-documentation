@@ -1,7 +1,7 @@
 # [Alpha Authority MEE6 documentation](https://github.com/Alpha-Authority/Mee6-documentation)
 
 ### Some handy links
-
+* [Leves Leaderboard Requirements](docs/levels_xp.md)
 * [5th Generation Levels Leaderboard [Current]](https://mee6.xyz/en/AlphaAuthority)
 * [4th Generation Levels Leaderboard](https://mee6.xyz/leaderboard/368111424297238558)
 * [3rd Generation Levels Leaderboard](https://mee6.xyz/leaderboard/352861569677262851)
