@@ -1,3 +1,0 @@
-# Record plugin
-
-TODO
